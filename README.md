@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi,I'm Jonatan 💻
 
-<!--
-**RDjonasA/RDjonasA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### FrontEnd
 
-Here are some ideas to get you started:
+```
+I am student in systems engineering.
+I'm currently a web Developer, as well as an android Developer.
+I am passionate about improving myself day by day.
+```
+### About me in code
+```js
+const joriel = {
+	code : ['Javascript', 'HTML' , 'CSS', 'Python', 'Kotlin', 'C'],
+	tools: ['React', 'Node', 'Django', 'Android Studio', 'Boostrap', 'Material UI','Redux', 'Docker'],
+	passions: ['web development', 'learn day by day']
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![me](https://res.cloudinary.com/joriel/image/upload/v1650916594/web/hfbafz6qtymj647vuxlj.png)
